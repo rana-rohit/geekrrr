@@ -142,10 +142,9 @@
 <div align="center">
   <img
     height="300"
-    src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"
+    src = "https://raw.githubusercontent.com/rana-rohit/rana-rohit/main/assets/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"
   />
 </div>
-
 <br />
 <br />
 
