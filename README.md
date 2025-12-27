@@ -18,6 +18,77 @@
 <br />
 <br />
 
+<h3 align="center">CURRENTLY</h3>
+
+<br />
+
+<div align="center">
+  <p>• Learning backend patterns and system design</p>
+  <p>• Building small projects to understand things better</p>
+  <p>• Exploring FastAPI, React, and data tools</p>
+</div>
+
+<br />
+<br />
+
+<h3 align="center">WHAT I CARE ABOUT</h3>
+
+<br />
+
+<div align="center">
+  <p>• Writing code I can understand later</p>
+  <p>• Learning fundamentals instead of shortcuts</p>
+  <p>• Improving a little with every project</p>
+</div>
+
+<br />
+<br />
+
+<h3 align="center">FEATURED WORK</h3>
+
+<br />
+
+<div align="center">
+  <p>
+    <strong>Ballistic Trajectory Simulator</strong><br />
+    React + FastAPI project focused on physics and visualization
+  </p>
+
+  <p>
+    <strong>Portfolio Website</strong><br />
+    Personal site built to experiment with UI and structure
+  </p>
+</div>
+
+<br />
+<br />
+
+<h3 align="center">HOW I LEARN</h3>
+
+<br />
+
+<div align="center">
+  <p>• Build first, read later</p>
+  <p>• Break things, then fix them</p>
+  <p>• Keep notes so I don’t forget</p>
+</div>
+
+<br />
+<br />
+
+<h3 align="center">OUTSIDE CODE</h3>
+
+<br />
+
+<div align="center">
+  <p>• Enjoy clean UI</p>
+  <p>• Like systems that make sense</p>
+  <p>• Probably tweaking this README again</p>
+</div>
+
+<br />
+<br />
+
 <h3 align="center">TOOLS</h3>
 
 <br />
