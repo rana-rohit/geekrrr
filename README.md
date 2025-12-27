@@ -70,7 +70,7 @@
 <br />
 
 <!-- ACTIVITY -->
-<h3 align="center">ACTIVITY</h3>
+<h1 align="center">ACTIVITY</h1>
 
 <br />
 
@@ -85,7 +85,7 @@
 <br />
 
 <!-- SOCIALS -->
-<h3 align="center">SOCIALS</h3>
+<h1 align="center">SOCIALS</h1>
 
 <br />
 
