@@ -84,23 +84,6 @@
 <br />
 <br />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/main/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/main/output/pacman-contribution-graph.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/rana-rohit/rana-rohit/main/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-<br />
-<br />
-
 <!-- SOCIALS -->
 <h3 align="center">SOCIALS</h3>
 
